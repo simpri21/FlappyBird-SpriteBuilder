@@ -40,7 +40,6 @@
 		BCF66F7E19563563004691FD /* Goal.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF66F7719563563004691FD /* Goal.m */; };
 		BCF66F7F19563563004691FD /* MainScene.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF66F7919563563004691FD /* MainScene.m */; };
 		BCF66F8019563563004691FD /* Obstacle.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF66F7B19563563004691FD /* Obstacle.m */; };
-		F0D5BBB01A535C060013555C /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = F0D5BBAF1A535C060013555C /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -364,7 +363,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCF66F7E19563563004691FD /* Goal.m in Sources */,
-				F0D5BBB01A535C060013555C /* Test.m in Sources */,
 				BCF66F7D19563563004691FD /* GamePlayScene.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
